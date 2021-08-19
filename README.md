@@ -1,2 +1,2 @@
 # informacoesUsuarios.JAVA
-Estudo utilizando linguagem Java , selenium webdriver e Xpath para  logar em uma conta
+Estudo utilizando linguagem Java , Selenium e Xpath.
